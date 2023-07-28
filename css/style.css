@@ -1,0 +1,181 @@
+body{
+	background-color:black;
+}
+
+#main{
+   height:100%;
+   width:100%;
+}
+
+#nav{
+	height:10%;
+	width:100%;
+	position:fixed;
+	
+}
+
+#nav img{
+	height:70%;
+	width:12%;
+	margin-top:1%;
+	margin-left:2%;
+	float:left;
+}
+#menu{
+	height:100%;
+	width:70%;
+	float:right;
+	margin-left:10%;
+	border-radius:10px;
+	box-shadow:2px 0px 10px #42f58a;
+	
+}
+#menu button{
+	height:90%;
+	width:9%;
+	color:white;
+	margin-left:9%;
+	display:inline;
+	background:none;
+	font-family:calibri;
+	border:none;
+	font-size:20px;
+}
+
+#menu button:hover{
+	color:#32a842;
+}
+
+#left{
+	height:90%;
+	width:15%;
+	float:left;
+	margin-top:3%;
+	position:fixed;
+}
+
+#left button{
+	height:5%;
+	width:80%;
+	color:white;
+	margin-top:7%;
+	margin-left:5%;
+	text-align:left;
+	border-radius:10px;
+	background:none;
+	border:none;
+	font-family:monospace;
+	font-size:15px;
+	
+}
+#left hr{
+	width:75%;
+	color:#42f58a;
+}
+#left button:hover{
+	background-color:#42f58a;
+}
+
+#right
+{
+	height:90%;
+	width:80%;
+	float:right;
+	margin-top:5%;
+	margin-left:15%;
+}
+
+.box1{
+	height:70%;
+	width:20%;
+	margin-right:5%;
+	margin-top:5%;
+	float:left;
+	color:white;
+	border-radius:10px;
+	box-shadow:2px 2px 10px #42f58a;
+}
+
+.box1 img{
+	height:80%;
+	width:100%;
+	border-radius:10px;
+}
+
+.box1 audio{
+	margin-top:2%;
+	margin-left:9%;
+	height:8%;
+	width:80%;
+}
+
+.box2{
+	height:70%;
+	width:20%;
+	margin-right:5%;
+	margin-top:12%;
+	float:left;
+	color:white;
+	border-radius:10px;
+	box-shadow:2px 2px 10px #42f58a;
+}
+
+.box2 img{
+	height:80%;
+	width:100%;
+	border-radius:10px;
+}
+
+.box2 audio{
+	margin-top:2%;
+	margin-left:9%;
+	height:8%;
+	width:80%;
+}
+
+.box3{
+	height:70%;
+	width:20%;
+	margin-right:5%;
+	margin-top:5%;
+	float:left;
+	color:white;
+	border-radius:10px;
+	box-shadow:2px 2px 10px #42f58a;
+}
+
+.box3 img{
+	height:80%;
+	width:100%;
+	border-radius:10px;
+}
+
+.box3 audio{
+	margin-top:2%;
+	margin-left:9%;
+	height:8%;
+	width:80%;
+}
+.box4{
+	height:70%;
+	width:20%;
+	margin-right:5%;
+	margin-top:12%;
+	float:left;
+	color:white;
+	border-radius:10px;
+	box-shadow:2px 2px 10px #42f58a;
+}
+
+.box4 img{
+	height:80%;
+	width:100%;
+	border-radius:10px;
+}
+
+.box4 audio{
+	margin-top:2%;
+	margin-left:9%;
+	height:8%;
+	width:80%;
+}
